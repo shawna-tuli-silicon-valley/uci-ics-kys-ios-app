@@ -1,2 +1,2 @@
 # Kys iOS App
-@ AthenaHacks 2018 at the University of Southern California
+Made at AthenaHacks 2018 at the University of Southern California
