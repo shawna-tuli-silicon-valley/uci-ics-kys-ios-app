@@ -1,1 +1,2 @@
-# Kys iOS App - Built at AthenaHacks 2018
+# Kys iOS App
+# Built at AthenaHacks 2018
