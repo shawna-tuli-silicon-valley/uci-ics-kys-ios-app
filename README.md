@@ -4,7 +4,7 @@ We made this iOS App at the AthenaHacks hackathon in 24 hours at the University 
 
 We built Kys using Swift and Xcode for the iOS app and Twilio's messaging service, and utilized the photoshop service Canva to make our designs and Google's Custom Search Engine to provide our photos.
 
-# AthenaHacks 2018 Devpost
+# AthenaHacks Devpost
 https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates
 
 
