@@ -1,6 +1,6 @@
 # Kys iOS App 📲💬
 
-We made this iOS App at the AthenaHacks hackathon in 24 hours at the University of Southern California.
+We made this iOS App at the 2018 AthenaHacks hackathon in 24 hours at the University of Southern California.
 
 We built Kys using Swift and Xcode for the iOS app and Twilio's messaging service, and utilized the photoshop service Canva to make our designs and Google's Custom Search Engine to provide our photos.
 
