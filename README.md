@@ -1,3 +1,5 @@
+![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165651827-3c71368b-1b7e-4202-9d84-71b5a71c13f6.png)
+
 # Kys iOS App 📲💬
 
 We made this iOS App at the 2018 AthenaHacks hackathon in 24 hours at the University of Southern California.
