@@ -1,6 +1,5 @@
 ![uci](https://user-images.githubusercontent.com/19508013/192876536-53c2f6db-734e-4185-b944-e3cf1a91a64a.png)
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165651827-3c71368b-1b7e-4202-9d84-71b5a71c13f6.png)
-![athenahacks](https://user-images.githubusercontent.com/19508013/192882781-7f92189d-3be4-4bc7-bc7f-97b15dc48a97.png)
 
 ∙ [Shawna Tuli Kys iOS App Devpost](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 
